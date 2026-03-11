@@ -1,0 +1,628 @@
+[
+  {
+    "year": 2022,
+    "round": 2,
+    "circuit": "ksa",
+    "circuit_name": "Jeddah",
+    "total_laps": 27,
+    "total_cars": 20,
+    "clean_laps": 442,
+    "race_median_sec": 105.336,
+    "sc_laps": [],
+    "sc_windows": [],
+    "sc_count": 0,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2022_R02_Jeddah.csv"
+  },
+  {
+    "year": 2022,
+    "round": 4,
+    "circuit": "ita",
+    "circuit_name": "Imola",
+    "total_laps": 35,
+    "total_cars": 21,
+    "clean_laps": 355,
+    "race_median_sec": 91.661,
+    "sc_laps": [
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      22,
+      23,
+      24,
+      32,
+      33,
+      34,
+      35
+    ],
+    "sc_windows": [
+      {
+        "start": 2,
+        "end": 4,
+        "duration_laps": 3
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "duration_laps": 4
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "duration_laps": 3
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "duration_laps": 4
+      }
+    ],
+    "sc_count": 4,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2022_R04_Imola.csv"
+  },
+  {
+    "year": 2022,
+    "round": 13,
+    "circuit": "hun",
+    "circuit_name": "Budapest",
+    "total_laps": 37,
+    "total_cars": 22,
+    "clean_laps": 708,
+    "race_median_sec": 95.024,
+    "sc_laps": [],
+    "sc_windows": [],
+    "sc_count": 0,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2022_R13_Budapest.csv"
+  },
+  {
+    "year": 2022,
+    "round": 14,
+    "circuit": "bel",
+    "circuit_name": "Spa",
+    "total_laps": 25,
+    "total_cars": 22,
+    "clean_laps": 438,
+    "race_median_sec": 124.696,
+    "sc_laps": [
+      24
+    ],
+    "sc_windows": [
+      {
+        "start": 24,
+        "end": 24,
+        "duration_laps": 1
+      }
+    ],
+    "sc_count": 1,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2022_R14_Spa.csv"
+  },
+  {
+    "year": 2023,
+    "round": 3,
+    "circuit": "aus",
+    "circuit_name": "Melbourne",
+    "total_laps": 33,
+    "total_cars": 22,
+    "clean_laps": 446,
+    "race_median_sec": 93.842,
+    "sc_laps": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "sc_windows": [
+      {
+        "start": 8,
+        "end": 12,
+        "duration_laps": 5
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "duration_laps": 5
+      }
+    ],
+    "sc_count": 2,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2023_R03_Melbourne.csv"
+  },
+  {
+    "year": 2023,
+    "round": 7,
+    "circuit": "mon",
+    "circuit_name": "Barcelona",
+    "total_laps": 39,
+    "total_cars": 22,
+    "clean_laps": 560,
+    "race_median_sec": 84.578,
+    "sc_laps": [
+      19,
+      20,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "sc_windows": [
+      {
+        "start": 19,
+        "end": 20,
+        "duration_laps": 2
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "duration_laps": 5
+      }
+    ],
+    "sc_count": 2,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2023_R07_Barcelona.csv"
+  },
+  {
+    "year": 2023,
+    "round": 10,
+    "circuit": "aut",
+    "circuit_name": "Red_Bull_Ring",
+    "total_laps": 40,
+    "total_cars": 22,
+    "clean_laps": 629,
+    "race_median_sec": 79.636,
+    "sc_laps": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      34,
+      35,
+      36
+    ],
+    "sc_windows": [
+      {
+        "start": 28,
+        "end": 32,
+        "duration_laps": 5
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "duration_laps": 3
+      }
+    ],
+    "sc_count": 2,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2023_R10_Red_Bull_Ring.csv"
+  },
+  {
+    "year": 2023,
+    "round": 11,
+    "circuit": "gbr",
+    "circuit_name": "Silverstone",
+    "total_laps": 29,
+    "total_cars": 22,
+    "clean_laps": 310,
+    "race_median_sec": 106.069,
+    "sc_laps": [
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      19
+    ],
+    "sc_windows": [
+      {
+        "start": 7,
+        "end": 10,
+        "duration_laps": 4
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "duration_laps": 3
+      },
+      {
+        "start": 19,
+        "end": 19,
+        "duration_laps": 1
+      }
+    ],
+    "sc_count": 3,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2023_R11_Silverstone.csv"
+  },
+  {
+    "year": 2023,
+    "round": 12,
+    "circuit": "hun",
+    "circuit_name": "Budapest",
+    "total_laps": 37,
+    "total_cars": 22,
+    "clean_laps": 705,
+    "race_median_sec": 93.586,
+    "sc_laps": [],
+    "sc_windows": [],
+    "sc_count": 0,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2023_R12_Budapest.csv"
+  },
+  {
+    "year": 2023,
+    "round": 15,
+    "circuit": "ita",
+    "circuit_name": "Monza",
+    "total_laps": 30,
+    "total_cars": 20,
+    "clean_laps": 210,
+    "race_median_sec": 115.932,
+    "sc_laps": [
+      2,
+      3,
+      8,
+      9,
+      10,
+      11,
+      14,
+      15,
+      24,
+      25,
+      26,
+      29,
+      30
+    ],
+    "sc_windows": [
+      {
+        "start": 2,
+        "end": 3,
+        "duration_laps": 2
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "duration_laps": 4
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "duration_laps": 2
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "duration_laps": 3
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "duration_laps": 2
+      }
+    ],
+    "sc_count": 5,
+    "pit_stops": 60,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2023_R15_Monza.csv"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "circuit": "brn",
+    "circuit_name": "Bahrain",
+    "total_laps": 32,
+    "total_cars": 20,
+    "clean_laps": 400,
+    "race_median_sec": 110.081,
+    "sc_laps": [
+      2,
+      3,
+      4,
+      19,
+      20,
+      21
+    ],
+    "sc_windows": [
+      {
+        "start": 2,
+        "end": 4,
+        "duration_laps": 3
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "duration_laps": 3
+      }
+    ],
+    "sc_count": 2,
+    "pit_stops": 20,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R01_Bahrain.csv"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "circuit": "ksa",
+    "circuit_name": "Jeddah",
+    "total_laps": 28,
+    "total_cars": 19,
+    "clean_laps": 301,
+    "race_median_sec": 107.338,
+    "sc_laps": [
+      2,
+      3,
+      16,
+      17,
+      18,
+      24
+    ],
+    "sc_windows": [
+      {
+        "start": 2,
+        "end": 3,
+        "duration_laps": 2
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "duration_laps": 3
+      },
+      {
+        "start": 24,
+        "end": 24,
+        "duration_laps": 1
+      }
+    ],
+    "sc_count": 3,
+    "pit_stops": 34,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R02_Jeddah.csv"
+  },
+  {
+    "year": 2024,
+    "round": 3,
+    "circuit": "aus",
+    "circuit_name": "Melbourne",
+    "total_laps": 33,
+    "total_cars": 22,
+    "clean_laps": 420,
+    "race_median_sec": 93.583,
+    "sc_laps": [
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "sc_windows": [
+      {
+        "start": 7,
+        "end": 8,
+        "duration_laps": 2
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "duration_laps": 6
+      }
+    ],
+    "sc_count": 2,
+    "pit_stops": 20,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R03_Melbourne.csv"
+  },
+  {
+    "year": 2024,
+    "round": 8,
+    "circuit": "mon",
+    "circuit_name": "Monaco",
+    "total_laps": 42,
+    "total_cars": 21,
+    "clean_laps": 719,
+    "race_median_sec": 85.142,
+    "sc_laps": [
+      40,
+      41
+    ],
+    "sc_windows": [
+      {
+        "start": 40,
+        "end": 41,
+        "duration_laps": 2
+      }
+    ],
+    "sc_count": 1,
+    "pit_stops": 20,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R08_Monaco.csv"
+  },
+  {
+    "year": 2024,
+    "round": 10,
+    "circuit": "esp",
+    "circuit_name": "Barcelona",
+    "total_laps": 37,
+    "total_cars": 20,
+    "clean_laps": 531,
+    "race_median_sec": 92.008,
+    "sc_laps": [
+      2,
+      3,
+      13,
+      18,
+      19
+    ],
+    "sc_windows": [
+      {
+        "start": 2,
+        "end": 3,
+        "duration_laps": 2
+      },
+      {
+        "start": 13,
+        "end": 13,
+        "duration_laps": 1
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "duration_laps": 2
+      }
+    ],
+    "sc_count": 3,
+    "pit_stops": 19,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R10_Barcelona.csv"
+  },
+  {
+    "year": 2024,
+    "round": 11,
+    "circuit": "aut",
+    "circuit_name": "Red_Bull_Ring",
+    "total_laps": 40,
+    "total_cars": 21,
+    "clean_laps": 685,
+    "race_median_sec": 80.095,
+    "sc_laps": [
+      6,
+      7
+    ],
+    "sc_windows": [
+      {
+        "start": 6,
+        "end": 7,
+        "duration_laps": 2
+      }
+    ],
+    "sc_count": 1,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R11_Red_Bull_Ring.csv"
+  },
+  {
+    "year": 2024,
+    "round": 12,
+    "circuit": "gbr",
+    "circuit_name": "Silverstone",
+    "total_laps": 29,
+    "total_cars": 21,
+    "clean_laps": 421,
+    "race_median_sec": 104.705,
+    "sc_laps": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "sc_windows": [
+      {
+        "start": 2,
+        "end": 6,
+        "duration_laps": 5
+      }
+    ],
+    "sc_count": 1,
+    "pit_stops": 24,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R12_Silverstone.csv"
+  },
+  {
+    "year": 2024,
+    "round": 14,
+    "circuit": "bel",
+    "circuit_name": "Spa",
+    "total_laps": 25,
+    "total_cars": 19,
+    "clean_laps": 275,
+    "race_median_sec": 122.936,
+    "sc_laps": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "sc_windows": [
+      {
+        "start": 2,
+        "end": 6,
+        "duration_laps": 5
+      }
+    ],
+    "sc_count": 1,
+    "pit_stops": 36,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R14_Spa.csv"
+  },
+  {
+    "year": 2024,
+    "round": 16,
+    "circuit": "ita",
+    "circuit_name": "Monza",
+    "total_laps": 30,
+    "total_cars": 21,
+    "clean_laps": 467,
+    "race_median_sec": 94.829,
+    "sc_laps": [
+      2,
+      8,
+      9,
+      10
+    ],
+    "sc_windows": [
+      {
+        "start": 2,
+        "end": 2,
+        "duration_laps": 1
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "duration_laps": 3
+      }
+    ],
+    "sc_count": 2,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R16_Monza.csv"
+  },
+  {
+    "year": 2024,
+    "round": 23,
+    "circuit": "qat",
+    "circuit_name": "Qatar",
+    "total_laps": 30,
+    "total_cars": 22,
+    "clean_laps": 356,
+    "race_median_sec": 102.006,
+    "sc_laps": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "sc_windows": [
+      {
+        "start": 9,
+        "end": 16,
+        "duration_laps": 8
+      }
+    ],
+    "sc_count": 1,
+    "pit_stops": 0,
+    "output_path": "C:\\Users\\Mohammed Rayhan\\pitwall\\data\\races\\2024_R23_Qatar.csv"
+  }
+]
